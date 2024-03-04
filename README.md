@@ -3,7 +3,7 @@ According to a [Harvard Business Review](https://hbr.org/2023/01/has-progress-on
 
 ## Contents
 *Predictive Analytics
-  - [Obesity (R)]
+  - Obesity (R)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i--3zl7dn43HrISR_NNSighu0AlQZl7n?usp=sharing)
   : Can we guess what stage of obesity you might be based on predictors? Using Decision Tree, KNN, and Bagged Decision Tree models, we can make better guesses.
   
