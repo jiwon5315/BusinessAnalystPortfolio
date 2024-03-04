@@ -11,4 +11,5 @@ According to a [Harvard Business Review](https://hbr.org/2023/01/has-progress-on
 
 ## Contact
 * [LinkedIn](https://www.linkedin.com/in/jiwon5315/)
+* [Tableau Public](https://public.tableau.com/app/profile/jiwon1960/vizzes)
 * [Resume](https://docs.google.com/document/d/1G5xGOCuyR1HJl8-Tyijec2Nemn7eNcyVCAEOc5PIwDE/edit?usp=sharing)
