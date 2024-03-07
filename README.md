@@ -8,6 +8,9 @@ According to a [Harvard Business Review](https://hbr.org/2023/01/has-progress-on
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i--3zl7dn43HrISR_NNSighu0AlQZl7n?usp=sharing)
     > Can we guess what stage of obesity you might be based on predictors? Using Decision Tree, KNN, and Bagged Decision Tree models, we can make better guesses.
 * Prescriptive Analytics
+  - **Landing Page A/B Test** (R)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sbokB75lEglcmYIGBG5wVrlxR4nyRQKG?usp=sharing)
+    > Does the new landing page drive more customer sign ups? Using the t-test and conversion lift rate, we can make better marketing decisions.  
 
 ## Contact
 * [LinkedIn](https://www.linkedin.com/in/jiwon5315/)
