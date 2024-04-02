@@ -3,6 +3,9 @@ According to a [Harvard Business Review](https://hbr.org/2023/01/has-progress-on
 
 ## Contents
 * Descriptive Analytics
+  - **RFM Analysis** (R)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XSwtpq4wxqE41RDuvNwh9yxLyHALlLeF?usp=sharing)
+    > Customer segmentation based on Recency, Frequency, and Monetary values and understanding traits about 'Champion' and 'Lost' customers.
 * Predictive Analytics
   - **Obesity** (R)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i--3zl7dn43HrISR_NNSighu0AlQZl7n?usp=sharing)
