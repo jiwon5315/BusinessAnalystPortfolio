@@ -6,6 +6,9 @@ According to a [Harvard Business Review](https://hbr.org/2023/01/has-progress-on
   - **RFM Analysis** (R)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XSwtpq4wxqE41RDuvNwh9yxLyHALlLeF?usp=sharing)
     > Customer segmentation based on Recency, Frequency, and Monetary values and understanding traits about 'Champion' and 'Lost' customers.
+  - **Marketing Analysis** (R)
+  [![Open In Colab](https://colab.research.google.com/drive/196JDY4Ox4TMbsBouT7_ifGTTwzbkoViB?usp=sharing)
+    >  Based on combinations of device, age, gender, and category - which user group is most ideal for the upcoming marketing campaign?  
 * Predictive Analytics
   - **Obesity** (R)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i--3zl7dn43HrISR_NNSighu0AlQZl7n?usp=sharing)
